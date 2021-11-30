@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @weirdev
+- 👀 I’m interested in the intersection of math and computer science.
+- 🌱 I’m currently learning..
